@@ -1,13 +1,12 @@
 <?php
 
 
-$email = "xxxxxxxxxxxxxxxxxxx";
-$password = "xxxxxxxxxxxxxxxx";
+$email = "muklid@gmail.com";
+$password = "Muklis$#@321";
 
-$user_agent = "Android/5.1; Bermi/1.39.0; Manufacturer/OPPO; Model/A1603; Gaoiscoolman";
+$user_agent = "Mozilla/5.0 (Linux; Android 9; RMX1821) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36";
 
 
 ?>
-
 
 
